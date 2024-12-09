@@ -1,0 +1,8 @@
+[Sound Theme]
+Name=Hydrogen
+Comment=Sound theme for tauOS 
+Directories=stereo
+Example=theme-demo
+
+[stereo]
+OutputProfile=stereo
